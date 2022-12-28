@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "isimgeridenyazma/1.0.0": {
+        "runtime": {
+          "isimgeridenyazma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "isimgeridenyazma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
