@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBpQhiLbUBqXG7IC6xd5llo4SUb19a97XOQfwhFJ4BiDfgSH1BJS0ZYG2TriSZZ2TIBQVsa6zANWxWFWYT5quA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cakir\\OneDrive\\Masaüstü\\Arda\\Dart\\dev\\c#\\sayisalloto\\sayisalloto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cakir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
