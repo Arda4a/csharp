@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfMs98EvRXDME10b1Fu57m+0sL7DIavVs7bNNdo574PyTgPKe+O2Z72radd+e58hsWVSN/qg1FelLI4B5DtItQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cakir\\OneDrive\\Masaüstü\\Arda\\Okul\\dev\\c#\\isimgeridenyazma\\isimgeridenyazma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cakir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
